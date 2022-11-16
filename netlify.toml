@@ -17,8 +17,8 @@
         Referrer-Policy= "no-referrer-when-downgrade"
 
 [[redirects]]
-    from = "https://webmention-analytics.netlify.app/*"
-    to = "https://webmentions.mxb.dev/:splat"
+    from = "https://juanlam-webmentions.netlify.app/*"
+    to = "https://webmentions.juanlam.com/:splat"
     status = 301
     force = true
 
